@@ -1,0 +1,21 @@
+To-Do List:
+		
+	Employment:
+			- Employment will either happen through an in-game entity or player interaction
+			- Employment will have a minimum skill level ( see skills )
+			- Players will be assigned tasks such as be at a factory every "day/night" cycle at 12PM or something
+
+	Skills:
+			- There will be several skills, each with their own hooks that will affect how the player plays the game. ( see perp skills )
+
+	HUD:
+			- The hud will be preferrably based mostly in-game and not on screen
+			- This will allow the hud to stay relatively unintrusive
+
+	Crafting:
+			- Crafting weapons will be done through recipes 
+	Blackmarket Items:
+			- Money printing will require several items and thus will be a pain in the ass unless you have friends, this will discourage it while still keeping it
+			- Weapons
+
+			PopulatePropMenu
